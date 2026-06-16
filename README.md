@@ -31,6 +31,7 @@ A simple and responsive weather application built using React, Material UI, and 
 (Add screenshots of your application here)
 
 ## 📂 Project Structure
+```
 src/
 ├── components/
 │ ├── SearchBox.jsx
@@ -39,6 +40,7 @@ src/
 ├── App.jsx
 ├── App.css
 └── main.jsx
+```
 
 ```text
 react
